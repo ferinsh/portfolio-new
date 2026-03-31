@@ -32,7 +32,7 @@
   margin-bottom: 1rem;
   opacity: 0;
   animation-delay: 2s;
-  animation: scroller-translate 0.6s ease-out 2s forwards;
+  /* animation: scroller-translate 0.6s ease-out 2s forwards; */
 
   & > img, #greet-scroll-text { 
     height:50%;
